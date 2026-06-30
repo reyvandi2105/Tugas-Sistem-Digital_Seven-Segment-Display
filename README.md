@@ -1,1 +1,2 @@
-# Seven-Segment-Display_System-Digital_D121241047_Reyvandi-Panca-Ragly
+# Tugas Sistem Digital - Seven-Segment-Display
+Tugas Universitas mata kuliah sistem digital
